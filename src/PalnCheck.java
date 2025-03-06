@@ -15,9 +15,6 @@ public class PalnCheck {
         return true;
     }
 
-
-
-
     public static void main(String[]args){
         System.out.println("Enter any string:");
         Scanner sc = new Scanner(System.in);
